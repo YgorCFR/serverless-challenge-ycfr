@@ -41,3 +41,7 @@ custom:
 ```
 serverless config credentials --provider aws --key YOUR_ACCESS_KEY --secret YOUR_SECRET_KEY
 ```
+And type this command next:
+```
+serverless deploy
+```
